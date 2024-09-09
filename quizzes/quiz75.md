@@ -1,6 +1,6 @@
 ```
 n = length(msg)
-get_k(n):
+def get_k(n):
   k = 0
   while 2 **k < k+n+1
     K+=1
